@@ -2,7 +2,7 @@
     "name": "my recipes",
     "short_name": "recipes",
     "description": "These are the recipes i found",
-    "start_url": "/index.html",
+    "start_url": "/Lab8-Starter",
     "display": "standalone",
     "background_color": "white",
     "theme_color": "blue",
